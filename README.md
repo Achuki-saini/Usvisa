@@ -1,12 +1,9 @@
 # Usvisa
 USvisa
-
-Youtube Playlist: https://youtube.com/playlist?list=PLkz_y24mlSJZvJOj1UXiJPVRQrNFdNEXX&si=FRFLpnve9MS6Rii9
-
-Anaconda: https://www.anaconda.com/
-Vs code: https://code.visualstudio.com/download
-Git: https://git-scm.com/
-Flowchart: https://whimsical.com/
-MLOPs Tool: https://www.evidentlyai.com/
-MongoDB: https://account.mongodb.com/account/login
-Data link: https://www.kaggle.com/datasets/moro23/easyvisa-dataset
+1.Anaconda: https://www.anaconda.com/
+2.Vs code: https://code.visualstudio.com/download
+3.Git: https://git-scm.com/
+4.Flowchart: https://whimsical.com/
+5.MLOPs Tool: https://www.evidentlyai.com/
+6.MongoDB: https://account.mongodb.com/account/login
+7.Data link: https://www.kaggle.com/datasets/moro23/easyvisa-dataset
